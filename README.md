@@ -11,3 +11,8 @@
 - Cost Efficiencies and Savings
 - Ability to Run Anywhere
 - Multi-Cloud Possibilities
+
+
+## What is k8 cluster ?
+- A Kubernetes (K8s) cluster is a grouping of nodes that run containerized apps in an efficient, automated, distributed, and scalable manner.
+- K8s clusters allow engineers to orchestrate and monitor containers across multiple physical, virtual, and cloud servers.
